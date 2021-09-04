@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Lenguajes web frontend</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<table width="100%" border="1">
+	<tr><!------encabezado--->
+		<td colspan="2">
+			<img src="programacion.jpg">
+	
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="3" width="20%"><!----menú-->
+		<ul>
+			<li><a>Inicio</a></li>
+			<li><a> Frontend</a></li>
+			<li><a> Acerca de...</a></li>
+		</ul>	
+		</td>
+		<td><!----sección1-->
+			<div>
+			<h2>¿Qué es HTML?</h2>
+			<img src="html.jpg" width="80px" height="80px">
+			<p>Es un lenguaje de programación que se utiliza para la creación de páginas en la www</p>
+		</div>
+		</td>
+		
+	</tr>
+	<tr>
+		<td><!--sección2-->
+			<div>
+			<h3>¿Qué es CSS?</h3>
+			<img src="aprender-css.jpg" width="80px" height="80px">
+			<p>Es un lenguaje de diseño grafico para definir y crear la presentación de un documento estructurado escrito en un lenguaje marcado</p>
+			<ol>
+                <li>HTML 1</li>
+                <li>HTML 2</li>
+                <li>HTML 3</li>
+                <li>HTML 4</li>
+                <li>HTML 5</li>
+            </ol>
+		</div>
+		</td>
+		
+	</tr>
+	<tr>
+		<td>
+			<div><!--sección3-->
+			<h4>¿Qué es JavaScript?</h4>
+			<img src="java.png" width="80px" height="80px">
+			<p>Es un lenguaje de programación que se puede utilizar para construir sitios web y para hacerlos mas interactivos.</p>
+		</div>
+		</td>
+		
+	</tr>
+	<tr heigth="100 px"><!---pie de página-->
+		<td colspan="2">
+			<h3>Licenciatura en sistemas computacionales</h3>
+			<p>&copy; COPYRIGHT 2020.Karen Lizeth Ortiz Escobar</p>
+		</td>
+	</tr>
+
+
+
+
+</table>
+</body>
+</html>
+
